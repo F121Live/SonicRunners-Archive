@@ -4,7 +4,10 @@ This repository is a public archive of past versions of Sonic Runners and Sonic 
 
 # In order to play older versions of the game you need to run a local server
 You can setup your own private server by following the steps given in the Outrun repo
-https://github.com/RunnersRevival/outrun
+https://github.com/fluofoxxo/outrun
+
+Alternatively, you can also use [Outrun for Revival](https://github.com/RunnersRevival/outrun), which fixes a variety of issues and implements login bonusses, among other stuff.
+This fork of Outrun is highly recommended for hosting Revival clients.
 
 # You *NEED* a web server to host server-side assets, outrun CAN'T do this
 There are a couple of tools for this, if you are running Windows you can set up a web server
